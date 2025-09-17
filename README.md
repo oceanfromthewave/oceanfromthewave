@@ -90,9 +90,5 @@
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/oceanfromthewave?pet-id=646006713742517078"
-    width="600"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/oceanfromthewave?pet-id=756046564236101277" width="1000" height="120"/>
 </a>
