@@ -1,16 +1,88 @@
-## Hi there 👋
+# 🐾 Hello World!, 엄규식입니다.
 
-<!--
-**oceanfromthewave/oceanfromthewave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요. 공공 분야의 민원 서비스를 **계획 → 구현 → 운영**까지 경험한 웹 개발자입니다. 
+현장의 목소리를 직접 듣고, 복잡한 업무 흐름을 이해한 뒤, 실사용자에게 도움이 되는 기능으로 연결하는 일을 가장 즐겁게 생각합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 간단 소개
+- **이름**: 엄규식 (oceanfromthewave)
+- **역할**: 웹 개발자 (주식회사 울림 / 개발3팀)
+- **도메인**: 공공 민원 시스템, 교육 이력 관리 시스템
+- **강점**: 요구사항 분석, Nexacro 화면 개발, Spring + JSP 비즈니스 로직, Oracle 데이터 검증, 운영 모니터링 및 배포 자동화 지원
+- **취향**: 데이터를 기반으로 개선점을 찾고, 민원인과 담당자의 불편을 줄이는 UI/UX 설계
+
+---
+
+## 🚀 대표 프로젝트 경험
+### 1. 교육이력관리시스템 유지보수 (2025~진행 중)
+- Spring + JSP 구조 전반을 다루며 **신규 요구사항 구현**과 이슈 대응을 담당
+- 사용자 피드백을 반영한 UI 개선, 화면별 검증 로직 보강으로 **민원 오류율 감소**
+- 장애 대응, 배포 관리, 로그 모니터링 체계를 운영해 **서비스 연속성** 확보
+- 클라이언트 및 사용자와 직접 소통해 요구사항을 분석하고 신속히 지원
+
+### 2. 동물용의약품 정보관리시스템 고도화 (2024)
+- Nexacro 기반 화면 재설계 (방문상담예약, 기술검토 Rollback 등)으로 **복잡한 민원 흐름 단순화**
+- 위해동물용의약품 정보 제공 모듈 구축으로 **맞춤형 안내** 제공
+- SR/CS 이슈 40건 이상 직접 해결, 응답·처리 시간을 단축하여 **민원 만족도 향상**
+- WAS/DB 서버 관리, 배포 자동화 지원으로 **안정적인 배포 사이클** 유지
+
+### 3. 동물용의약품 정보관리시스템 재구축 (2023)
+- Nexacro를 활용해 국가출하승인, 제조·수입 신고, 자가백신 신고 등 **주요 민원 화면 신규 개발**
+- 예약 관리 모듈 설계·구현으로 민원 절차 간소화 및 사용자 편의성 증대
+- Oracle DB 연동 + Validation 로직 강화로 **데이터 무결성과 처리 정확도 확보**
+
+---
+
+## 📊 숫자로 보는 저의 역할
+- **40+** 건의 SR/CS 이슈를 분석하고 개선 (직접 커뮤니케이션 및 후속 조치 포함)
+- **2년+** 공공 민원 시스템 도메인 경험 (재구축 → 고도화 → 유지보수 전 주기)
+- **4개** 핵심 민원 모듈 구축 (국가출하승인, 제조·수입 신고, 자가백신 등)
+- **0건** 주요 장애 유지 (운영 기간 동안 대형 장애 없이 안정적인 서비스 운영)
+
+---
+
+## 🛠 기술 역량
+### Back-End & Framework
+`Spring Framework` · `Spring Boot` · `Spring Data JPA` · `Java` · `JSP` · `MyBatis` · `eGovFrame`
+
+### Front-End & UI
+`Nexacro` · `JavaScript` · `HTML/CSS` · `Bootstrap`
+
+### Data & Infra
+`Oracle` · `OracleDB` · `MySQL` · `SQL` · `WAS` · `Linux`
+
+### Collaboration & Tools
+`GitHub` · 기반 이슈 트래킹 · 요구사항 및 이력 문서화
+
+---
+
+## 💡 일할 때의 가치관
+1. **사용자와 직접 소통**합니다. 민원인/담당자의 언어를 개발자의 언어로 변환하는 과정에서 진짜 문제를 정의합니다.
+2. **로그와 데이터를 먼저 봅니다.** 반복되는 SR을 줄이기 위해 원인을 파악하고 리팩터링 대상을 찾습니다.
+3. **안정적인 운영을 중시합니다.** 배포 전후 체크리스트, 롤백 플랜, 모니터링 체계를 챙겨 장애를 최소화합니다.
+4. **작은 성공을 빠르게 공유**합니다. 프로토타입과 문서를 통해 팀 내 합의를 빠르게 만들어 갑니다.
+
+---
+
+## 🔜 앞으로 하고 싶은 일
+- 민원 흐름을 더욱 자동화하여 사용자와 담당자의 업무 부담을 줄이는 프로젝트
+- 데이터 기반의 운영 대시보드 구축, 지표를 통해 서비스 개선 주기를 단축하는 일
+- 공공 서비스에서도 **사용자 경험(UX)** 을 놓치지 않는 제품 개발
+
+---
+
+## 📂 Project Links
+- Portfolio: [https://oceanfromthewave.dev](https://oceanfromthewave.dev)
+- GitHub: [https://github.com/oceanfromthewave](https://github.com/oceanfromthewave)
+- Repositories: [https://github.com/oceanfromthewave?tab=repositories](https://github.com/oceanfromthewave?tab=repositories)
+
+---
+
+## 📫 Contact
+- Email: [oceanfromthewave@gmail.com](mailto:oceanfromthewave@gmail.com)
+- Phone: 010-3176-4123
+- GitHub Issues나 메일로 문의 주시면 빠르게 답변드립니다.
+
+> “공공 서비스는 결국 사람을 위한 기술이어야 한다고 믿습니다.”
+> 사용자와 운영자가 모두 웃을 수 있는 민원 시스템을 만들고 싶습니다.
