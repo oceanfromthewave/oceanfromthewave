@@ -86,3 +86,12 @@
 
 > “공공 서비스는 결국 사람을 위한 기술이어야 한다고 믿습니다.”
 > 사용자와 운영자가 모두 웃을 수 있는 민원 시스템을 만들고 싶습니다.
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Foongdoll?pet-id=646006713742517078"
+    width="600"
+    height="120"
+  />
+</a>
