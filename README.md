@@ -73,7 +73,7 @@
 ---
 
 ## 📂 Project Links
-- Portfolio: [https://oceanfromthewave.dev](https://oceanfromthewave.dev)
+- Portfolio: [https://oceanfromthewave.dev](https://portfolio-five-blush-44.vercel.app/)
 - GitHub: [https://github.com/oceanfromthewave](https://github.com/oceanfromthewave)
 - Repositories: [https://github.com/oceanfromthewave?tab=repositories](https://github.com/oceanfromthewave?tab=repositories)
 
