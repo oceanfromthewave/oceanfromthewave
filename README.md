@@ -1,91 +1,150 @@
 # 🐾 Hello World!, 엄규식입니다.
 
-안녕하세요. 공공 분야의 민원 서비스를 **계획 → 구현 → 운영**까지 경험한 웹 개발자입니다. 
-현장의 목소리를 직접 듣고, 복잡한 업무 흐름을 이해한 뒤, 실사용자에게 도움이 되는 기능으로 연결하는 일을 가장 즐겁게 생각합니다.
+공공 시스템의 복잡한 업무 흐름을  
+사용자가 이해하기 쉬운 서비스로 바꾸는 개발자입니다.
+
+기획 → 구현 → 운영까지 직접 경험하며  
+실제 사용자의 불편을 줄이는 서비스를 만드는 데 집중하고 있습니다.
 
 ---
 
-## 🧭 간단 소개
-- **이름**: 엄규식 (oceanfromthewave)
-- **역할**: 웹 개발자
-- **도메인**: 공공 민원 시스템, 교육 이력 관리 시스템
-- **강점**: 요구사항 분석, Nexacro 화면 개발, Spring + JSP 비즈니스 로직, Oracle 데이터 검증, 운영 모니터링 및 배포 자동화 지원
-- **취향**: 데이터를 기반으로 개선점을 찾고, 민원인과 담당자의 불편을 줄이는 UI/UX 설계
+## 🧭 About Me
+
+- 이름: 규식 (`oceanfromthewave`)
+- 역할: Web Developer
+- 도메인 경험:
+  - 공공 민원 시스템
+  - 교육 행정 시스템
+  - 유지보수 및 운영 시스템
+- 관심사:
+  - 운영 안정화
+  - 사용자 중심 UX
+  - 데이터 기반 개선
+  - 업무 자동화
 
 ---
 
-## 🚀 대표 프로젝트 경험
-### 1. 교육이력관리시스템 유지보수 (2025~ 2025.09)
-- Spring + JSP 구조 전반을 다루며 **신규 요구사항 구현**과 이슈 대응을 담당
-- 사용자 피드백을 반영한 UI 개선, 화면별 검증 로직 보강으로 **민원 오류율 감소**
-- 장애 대응, 배포 관리, 로그 모니터링 체계를 운영해 **서비스 연속성** 확보
-- 클라이언트 및 사용자와 직접 소통해 요구사항을 분석하고 신속히 지원
+## 🚀 Experience
 
-### 2. 동물용의약품 정보관리시스템 고도화 (2024)
-- Nexacro 기반 화면 재설계 (방문상담예약, 기술검토 Rollback 등)으로 **복잡한 민원 흐름 단순화**
-- 위해동물용의약품 정보 제공 모듈 구축으로 **맞춤형 안내** 제공
-- SR/CS 이슈 40건 이상 직접 해결, 응답·처리 시간을 단축하여 **민원 만족도 향상**
-- WAS/DB 서버 관리, 배포 자동화 지원으로 **안정적인 배포 사이클** 유지
+### 1. 청주대학교 정보시스템 유지보수 (2026.04 ~ )
+#### 수행사: 아카넷
 
-### 3. 동물용의약품 정보관리시스템 재구축 (2023)
-- Nexacro를 활용해 국가출하승인, 제조·수입 신고, 자가백신 신고 등 **주요 민원 화면 신규 개발**
-- 예약 관리 모듈 설계·구현으로 민원 절차 간소화 및 사용자 편의성 증대
-- Oracle DB 연동 + Validation 로직 강화로 **데이터 무결성과 처리 정확도 확보**
+- 학사/행정 시스템 유지보수 및 운영 지원
+- 사용자 요청사항 분석 및 기능 개선 대응
+- 기존 업무 로직 분석 및 안정화 작업 수행
+- 운영 이슈 대응 및 서비스 연속성 관리
+- 교육 도메인 기반 시스템 운영 경험 확장
 
 ---
 
-## 📊 숫자로 보는 저의 역할
-- **1000+** 건의 SR/CS 이슈를 분석하고 개선 (직접 커뮤니케이션 및 후속 조치 포함)
-- **2년+** 공공 민원 시스템 도메인 경험 (재구축 → 고도화 → 유지보수 전 주기)
-- **4개** 핵심 민원 모듈 구축 (국가출하승인, 제조·수입 신고, 자가백신 등)
+### 2. 교육이력관리시스템 유지보수 (2025 ~ 2025.09)
+#### 수행사: 주식회사 울림
+
+- Spring + JSP 기반 신규 요구사항 구현 및 유지보수
+- 사용자 피드백 기반 UI/UX 개선
+- 검증 로직 보강을 통한 민원 오류 감소
+- 장애 대응 및 로그 모니터링 운영
+- 배포 관리 및 운영 안정화 지원
+- 클라이언트 및 사용자 요구사항 직접 분석 및 대응
 
 ---
 
-## 🛠 기술 역량
-### Back-End & Framework
-`Spring Framework` · `Spring Boot` · `Spring Data JPA` · `Java` · `JSP` · `MyBatis` · `eGovFrame`
+### 3. 동물용의약품 정보관리시스템 고도화 (2024)
+#### 수행사: 주식회사 울림
 
-### Front-End & UI
-`Nexacro` · `JavaScript` · `HTML/CSS` · `Bootstrap`
-
-### Data & Infra
-`Oracle` · `OracleDB` · `MySQL` · `SQL` · `WAS` · `Linux`
-
-### Collaboration & Tools
-`GitHub` · 기반 이슈 트래킹 · 요구사항 및 이력 문서화
+- Nexacro 기반 민원 화면 재설계
+- 방문상담예약 / 기술검토 Rollback 기능 개선
+- 위해동물용의약품 정보 제공 모듈 구축
+- SR/CS 이슈 40건 이상 직접 대응
+- WAS / DB 서버 관리 및 배포 자동화 지원
+- 복잡한 민원 흐름 단순화 및 사용자 경험 개선
 
 ---
 
-## 💡 일할 때의 가치관
-1. **사용자와 직접 소통**합니다. 민원인/담당자의 언어를 개발자의 언어로 변환하는 과정에서 진짜 문제를 정의합니다.
-2. **로그와 데이터를 먼저 봅니다.** 반복되는 SR을 줄이기 위해 원인을 파악하고 리팩터링 대상을 찾습니다.
-3. **안정적인 운영을 중시합니다.** 배포 전후 체크리스트, 롤백 플랜, 모니터링 체계를 챙겨 장애를 최소화합니다.
-4. **작은 성공을 빠르게 공유**합니다. 프로토타입과 문서를 통해 팀 내 합의를 빠르게 만들어 갑니다.
+### 4. 동물용의약품 정보관리시스템 재구축 (2023)
+#### 수행사: 주식회사 울림
+
+- 국가출하승인 민원 화면 신규 개발
+- 제조·수입 신고 프로세스 구축
+- 자가백신 신고 기능 개발
+- 예약 관리 모듈 설계 및 구현
+- Oracle DB 연동 및 Validation 로직 강화
+- 데이터 무결성 및 처리 정확도 개선
 
 ---
 
-## 🔜 앞으로 하고 싶은 일
-- 민원 흐름을 더욱 자동화하여 사용자와 담당자의 업무 부담을 줄이는 프로젝트
-- 데이터 기반의 운영 대시보드 구축, 지표를 통해 서비스 개선 주기를 단축하는 일
-- 공공 서비스에서도 **사용자 경험(UX)** 을 놓치지 않는 제품 개발
+## 📈 By The Numbers
+
+- 1000+ SR/CS 이슈 분석 및 대응
+- 3년+ 공공/교육 시스템 실무 경험
+- 4개 핵심 민원 모듈 구축
+- 재구축 → 고도화 → 유지보수 전 주기 경험
+- 사용자 및 운영자 직접 커뮤니케이션 경험
 
 ---
 
-## 📂 Project Links
-- Portfolio: [https://oceanfromthewave.dev](https://portfolio-five-blush-44.vercel.app/)
-- GitHub: [https://github.com/oceanfromthewave](https://github.com/oceanfromthewave)
-- Repositories: [https://github.com/oceanfromthewave?tab=repositories](https://github.com/oceanfromthewave?tab=repositories)
+## 🛠 Tech Stack
+
+### Backend
+`Java` · `Spring Framework` · `Spring Boot` · `JPA` · `JSP` · `eGovFrame` · `vue` · `Node.js` · `python`
+
+### Frontend
+`JavaScript` · `vue` ·
+ `react` · `Nexacro` · `HTML/CSS` · `Bootstrap`
+
+### Database
+`Oracle` · `MySQL` · `SQL`
+
+### Infra & Ops
+`Linux` · `WAS` · `GitHub` 
+
+---
+
+## 🧠 What I Care About
+
+- 복잡한 업무 흐름을 단순하게 만드는 것
+- 운영 중 반복되는 문제를 구조적으로 해결하는 것
+- 사용자와 운영자 모두 편한 시스템 만들기
+- 로그와 데이터를 기반으로 개선 포인트 찾기
+- 안정적인 운영과 빠른 장애 대응
+
+---
+
+## 🔜 Currently Interested In
+
+- 운영 자동화 및 업무 효율화
+- 데이터 기반 운영 대시보드 구축
+- 사용자 중심 공공 서비스 UX 개선
+- 코드 분석 및 개발 생산성 도구 제작
+- AI 기반 개발 워크플로우 연구
+
+---
+
+## 📂 Links
+
+- Portfolio: 
+[https://oceanfromthewave.dev](https://portfolio-five-blush-44.vercel.app/)
+- GitHub: 
+[https://github.com/oceanfromthewave](https://github.com/oceanfromthewave)
+- Repositories: 
+[https://github.com/oceanfromthewave?tab=repositories](https://github.com/oceanfromthewave?tab=repositories)
 
 ---
 
 ## 📫 Contact
-- Email: [oceanfromthewave@gmail.com](mailto:oceanfromthewave@gmail.com)
-- GitHub Issues나 메일로 문의 주시면 빠르게 답변드립니다.
 
-> “공공 서비스는 결국 사람을 위한 기술이어야 한다고 믿습니다.”
-> 사용자와 운영자가 모두 웃을 수 있는 민원 시스템을 만들고 싶습니다.
-> 
+- Email : oceanfromthewave@gmail.com
+
+- GitHub Issues 또는 메일로 문의 주시면 빠르게 답변드립니다.
+
 ---
+
+> "공공 서비스는 결국 사람을 위한 기술이어야 한다고 믿습니다."
+
+사용자와 운영자가 모두 편하게 사용할 수 있는 시스템을 만들고 싶습니다.
+
+---
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/oceanfromthewave?pet-id=756046564236101277" width="1000" height="120"/>
