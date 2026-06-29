@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 엄규식 · oceanfromthewave
+# 🌊 · oceanfromthewave
 
 **공공 시스템의 복잡한 업무 흐름을 사용자가 이해하기 쉬운 서비스로 바꾸는 Web Developer**
 
