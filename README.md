@@ -63,19 +63,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![oceanfromthewave's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanfromthewave&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oceanfromthewave&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=oceanfromthewave&theme=tokyonight)
-
-</div>
-
----
-
 ## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-blush-44.vercel.app/)
