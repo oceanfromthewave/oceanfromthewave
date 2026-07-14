@@ -32,7 +32,6 @@
 
 **[cat-pet-statusbar](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)** — VS Code 상태바에 blobcat 펫을 띄우는 미니 확장. 기획부터 배포·운영까지 직접.
 
-[![Downloads](https://vsmarketplacebadges.dev/downloads-short/blobcat.cat-pet-statusbar.svg)](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)
 [![Installs](https://vsmarketplacebadges.dev/installs-short/blobcat.cat-pet-statusbar.svg)](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)
 [![Rating](https://vsmarketplacebadges.dev/rating-star/blobcat.cat-pet-statusbar.svg)](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)
 
