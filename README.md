@@ -1,82 +1,38 @@
-<div align="center">
+## 👋 안녕하세요, 규식입니다
 
-# 🌊 oceanfromthewave
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:oceanfromthewave@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/oceanfromthewave)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-five-blush-44.vercel.app/)
 
-**공공 시스템의 복잡한 업무 흐름을 사용자가 이해하기 쉬운 서비스로 바꾸는 Web Developer**
+🌱 공공·교육 도메인에서 **3년+** 동안 시스템 개발부터 운영까지 경험한 웹 개발자입니다.
 
-기획 → 구현 → 운영까지 전 과정을 경험하며, 안정적인 운영과 데이터 기반 개선에 집중합니다.
+🚀 최근에는 대학 내부 연구비 시스템과 국가 연구비통합관리시스템(**RCMS · 이지바로**) 간 **통합연계모듈 연동 개발**을 담당했습니다.
+인터페이스 DB 기반의 **배치 연계 + 실시간 API 연계**를 구축해 과제·협약·연구비 집행·카드·전자증빙 데이터를 자동 연동하고, 검증 테스트부터 운영 전환까지 수행했습니다.
 
-</div>
+💡 그 전에는 동물용의약품 정보관리시스템을 **재구축 → 고도화 → 유지보수** 전 주기에 걸쳐 담당하며, 민원 화면을 재설계하고 SR/CS 이슈를 **누적 1,000건+** 분석·대응했습니다.
 
----
+✨ 결국 기술은 사람을 위한 것이라 믿습니다. 안정적인 운영과 데이터 기반 개선으로, 사용자와 운영자 모두 편하게 쓸 수 있는 서비스를 만드는 것이 목표입니다.
 
-## 🧭 About Me
+### 🛠️ Tech Stack
 
-- 📅 **경력** · 3년+ (2023 ~) · 공공/교육 SI 개발·운영
-- 🏢 **역할** · Web Developer (Backend · Frontend)
-- 🗂 **도메인** · 공공 민원 / 교육 행정 / 유지보수·운영 시스템
-- 🎯 **관심사** · 레거시 운영 안정화 · 반복 장애의 구조적 해결 · 데이터 기반 개선 · 업무 자동화
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,ts,js,react,vue,git)](https://skillicons.dev)
 
----
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat)
+![eGovFrame](https://img.shields.io/badge/eGovFrame-003459?style=flat)
+![Nexacro](https://img.shields.io/badge/Nexacro-005BAC?style=flat)
 
-## 🛠 Tech Stack
+### 💼 Experience
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![eGovFrame](https://img.shields.io/badge/eGovFrame-003459?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **연구비 통합연계모듈 연동 개발** · 청주대학교 / 아카넷 · `2026.04 ~`
+- **교육이력관리시스템 유지보수** · 주식회사 울림 · `2025`
+- **동물용의약품 정보관리시스템 재구축·고도화** · 주식회사 울림 · `2023 ~ 2024`
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Nexacro](https://img.shields.io/badge/Nexacro-005BAC?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🐱 Side Project
 
-### Database & Ops
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**[cat-pet-statusbar](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)** — VS Code 상태바에 blobcat 펫을 띄우는 미니 확장. 기획부터 배포·운영까지 직접.
+
+[![VS Marketplace](https://img.shields.io/visual-studio-marketplace/i/blobcat.cat-pet-statusbar?style=flat&logo=visualstudiocode&label=Installs&color=007ACC)](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/blobcat.cat-pet-statusbar?style=flat&label=Rating)](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)
 
 ---
-
-## 🚀 Experience
-
-**청주대학교 정보시스템 유지보수** · 아카넷 `2026.04 ~`
-> 학사/행정 시스템 유지보수·운영, 기능 개선 대응, 통합연구비 연계모듈 개발
-
-**교육이력관리시스템 유지보수** · 주식회사 울림 `2025 ~ 2025.09`
-> Spring + JSP 기반 신규 요구사항 구현, UI/UX 개선, 장애 대응 및 운영 안정화
-
-**동물용의약품 정보관리시스템 고도화** · 주식회사 울림 `2024`
-> Nexacro 민원 화면 재설계, Rollback 기능 개선, SR/CS 이슈 누적 1000건+ 분석·대응
-
-**동물용의약품 정보관리시스템 재구축** · 주식회사 울림 `2023`
-> 국가출하승인·제조/수입 신고 화면 신규 개발, Oracle 연동 및 Validation 강화
-
----
-
-## 🔗 Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-blush-44.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oceanfromthewave)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oceanfromthewave@gmail.com)
-
----
-
-<div align="center">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/oceanfromthewave?pet-id=756046564236101277" width="1000" height="120"/>
-</a>
-
-</div>
