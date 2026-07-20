@@ -1,7 +1,6 @@
 ## 👋 안녕하세요, 규식입니다
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:oceanfromthewave@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/oceanfromthewave)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-five-blush-44.vercel.app/)
 
 🌱 공공·교육 도메인에서 **3년+** 동안 시스템 개발부터 운영까지 경험한 웹 개발자입니다.
