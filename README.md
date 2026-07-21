@@ -27,23 +27,6 @@
 - **교육이력관리시스템 유지보수** · 주식회사 울림 · `2025`
 - **동물용의약품 정보관리시스템 재구축·고도화** · 주식회사 울림 · `2023 ~ 2024`
 
-### 🌙 Coding Habits
-
-<!--START_SECTION:waka-->
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning      62 commits  █████░░░░░░░░░░░░░░░░░░░░   19.7%
-🌆 Daytime     250 commits  ████████████████████░░░░░   79.6%
-🌃 Evening       2 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.6%
-🌙 Night         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0%
-```
-
-<sub>최근 커밋 314건 기준 · KST · 2026-07-21 갱신</sub>
-
-<!--END_SECTION:waka-->
-
 ### 🐱 Side Project
 
 **[cat-pet-statusbar](https://marketplace.visualstudio.com/items?itemName=blobcat.cat-pet-statusbar)** — VS Code 상태바에 blobcat 펫을 띄우는 미니 확장. 기획부터 배포·운영까지 직접.
