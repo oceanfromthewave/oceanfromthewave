@@ -1,4 +1,4 @@
-name: Waka Readme Stats
+name: Coding Habits
 
 on:
   workflow_dispatch:
@@ -6,28 +6,35 @@ on:
     # 매일 06:00 KST (UTC 21:00)
     - cron: "0 21 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with commit time stats
     runs-on: ubuntu-latest
 
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
+          python-version: "3.12"
+
+      - name: Generate coding habits
+        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: Asia/Seoul
-          # 시간대별 커밋 통계만 표시
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_UPDATED_DATE: "True"
-          # WakaTime 연동이 필요한 항목은 모두 비활성화
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_OS: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_TIMEZONE: "False"
+          GH_USER: ${{ github.repository_owner }}
+        run: python .github/scripts/coding_habits.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "chore: 커밋 시간대 통계 갱신"
+            git push
+          else
+            echo "변경 사항 없음"
+          fi

@@ -30,6 +30,18 @@
 ### 🌙 Coding Habits
 
 <!--START_SECTION:waka-->
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning      62 commits  █████░░░░░░░░░░░░░░░░░░░░   19.8%
+🌆 Daytime     249 commits  ████████████████████░░░░░   79.6%
+🌃 Evening       2 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.6%
+🌙 Night         0 commits  ░░░░░░░░░░░░░░░░░░░░░░░░░    0.0%
+```
+
+<sub>최근 커밋 313건 기준 · KST · 2026-07-21 갱신</sub>
+
 <!--END_SECTION:waka-->
 
 ### 🐱 Side Project
