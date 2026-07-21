@@ -1,0 +1,33 @@
+name: Waka Readme Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 매일 06:00 KST (UTC 21:00)
+    - cron: "0 21 * * *"
+
+jobs:
+  update-readme:
+    name: Update README with commit time stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TIMEZONE: Asia/Seoul
+          # 시간대별 커밋 통계만 표시
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_UPDATED_DATE: "True"
+          # WakaTime 연동이 필요한 항목은 모두 비활성화
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_OS: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_TIMEZONE: "False"

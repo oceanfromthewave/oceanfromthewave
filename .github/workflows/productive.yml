@@ -1,0 +1,20 @@
+name: Productive Time
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  productive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Productive Box
+        uses: Readme-Workflows/productive-box@v1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: fd0b19ce8a9a0f08390ab943c4803fd6
+          TIMEZONE: Asia/Seoul
